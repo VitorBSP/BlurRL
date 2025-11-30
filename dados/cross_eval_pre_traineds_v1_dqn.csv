@@ -1,0 +1,5 @@
+Agente,Ambiente,Score,Sobrevivência,Eficiência
+dqn,Amb. Normal,21.25,12342.92,0.1721634750794655
+dqn,Amb. Top,0.26,128.38,0.2025237485885803
+dqn,Amb. Mid,0.0,26998.0,0.0
+dqn,Amb. Bot,0.1,123.94,0.08068420258453614
